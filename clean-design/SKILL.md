@@ -28,7 +28,7 @@ Use `references/brief-template.md`. Six lines: audience and the one action, one 
 - Cards: no row of three identical cards unless the content is three parallel things.
 
 ## 3. Check with the toolbox (the part most design skills lack)
-Twelve tools, one command: `node .claude/skills/clean-design/scripts/cd.mjs <tool> <args>`.
+Thirteen tools, one command: `node .claude/skills/clean-design/scripts/cd.mjs <tool> <args>`.
 
 | Tool | What it does |
 |---|---|

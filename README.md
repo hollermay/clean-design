@@ -2,11 +2,11 @@
 
 An AI coding agent skill that stops your AI-built site from looking "vibe coded".
 
-A vague prompt ("make it look professional") gets you the average of the internet: purple gradient, emoji icons, three identical cards, "Supercharge your workflow". This skill makes the agent write a short design brief first, build with constraints, **check its own output with 12 scripted tools**, then get a fresh-eyes review.
+A vague prompt ("make it look professional") gets you the average of the internet: purple gradient, emoji icons, three identical cards, "Supercharge your workflow". This skill makes the agent write a short design brief first, build with constraints, **check its own output with 13 scripted tools**, then get a fresh-eyes review.
 
 From the @devvsclawd reel "Looks vibe coded".
 
-## The 12 tools
+## The 13 tools
 Run with `node clean-design/scripts/cd.mjs <tool> <path>`:
 
 | Tool | What it does |

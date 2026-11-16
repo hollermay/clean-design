@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// clean-design toolbox. One command, twelve tools.
+// clean-design toolbox. One command, thirteen tools.
 // Usage: node cd.mjs <tool> <args>   (run with no args for the list)
 import fs from "node:fs";
 import path from "node:path";
